@@ -5,6 +5,9 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            int a = 1;
+            int b = '8';
+            Console.WriteLine(a+b);
         }
     }
 }
